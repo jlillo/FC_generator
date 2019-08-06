@@ -21,5 +21,5 @@ Plots in jpeg
 
 ### Examples
 ```
-python FC_generator.py 2019b_CAHA_2.2_CAFE_TESS/targets_6-7_ago.txt --COORD --fov 5
+python FC_generator.py [path_to_file] --COORD --fov 5
 ```
