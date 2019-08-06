@@ -23,3 +23,7 @@ Plots in jpeg
 ```
 python FC_generator.py [path_to_file] --COORD --fov 5
 ```
+
+<p align="center">
+  <img src="example.jpg" width="350" title="Example FC">
+</p>
